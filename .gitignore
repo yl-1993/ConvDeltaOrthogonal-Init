@@ -1,0 +1,7 @@
+*__pycache__
+*.pth.tar
+*.pyc
+*.npy
+*.swp
+log*.txt
+data
