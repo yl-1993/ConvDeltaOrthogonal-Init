@@ -28,4 +28,4 @@ The learning rate is initialized with `0.1`, divided by 10 at epoch 100 and 150 
 ## Reference
 More discussion can be found at [Reddit](https://www.reddit.com/r/MachineLearning/comments/8r7fl2/r_how_to_train_10000layer_vanilla_convolutional/).
 It seems that currently the theory applies on Vanilla CNN with tanh activations.
-Skip-connection with ReLU activations or orther modern architectures is still an open problem.
+Skip-connection with ReLU activations or other modern architectures is still an open problem.
